@@ -53,6 +53,4 @@ lb.grid(row=5, column=1)
 var.set(tuple(datalist))
 yscroll["command"]=lb.yview()
 
-
-
 window.mainloop()
